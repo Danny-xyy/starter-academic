@@ -28,6 +28,7 @@ interests:
 
 # Education to show in About widget
 education:
+  courses:
 - course: MS in Electrical and Computer Engineering
   institution: New York University
   year: 2019
