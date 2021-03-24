@@ -74,7 +74,7 @@ email: ""
 highlight_name: false
 ---
 
-Yiyang Xu is a second year student of electrical engineering at the New York University Tandon school of Engineering. His research interests include FPGA, hardware security and SOC design verification. He leads the NYU_AES team, which is the second place team of Hack@DAC2020 and Hack@Sec2020 hardware security competetion.
+Yiyang is an intelligent and competent candidate who will be a good match for Hardware Engineer position. His research interests include FPGA, hardware security, SOC design verification and computer architecture. He has done great projects with Verilog, C++, Java and python recently. He has led the NYU_AES team to win the second place of the Intel Hack@DAC2020 and Hack@Sec2020 hardware security competetion. He holds a profound understanding of how the hardware works and always goes beyond the scope of the project in order to the design more robust.
 
 #
 
