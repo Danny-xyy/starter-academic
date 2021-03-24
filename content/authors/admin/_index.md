@@ -29,12 +29,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-   - MS in Electrical and Computer Engineering
-    institution: New York University
-    year: 2019
-   - BSc in Electronic and Information Engineering
-    institution: Northeastern University of China
-    year: 2015
+- MS in Electrical and Computer Engineering
+  institution: New York University
+  year: 2019
+- BSc in Electronic and Information Engineering
+  institution: Northeastern University of China
+  year: 2015
 
 
 # Social/Academic Networking
