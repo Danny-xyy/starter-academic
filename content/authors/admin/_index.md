@@ -14,9 +14,7 @@ organizations:
   url: https://engineering.nyu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am passionate about SoC design, hardware security, embedded system and FPGA.
-I am familiiar with extensive cryto algorithm including DES, AES, SHA and attack strategies such as Scan Attack, Fault Attack and SAT Attack.
-Driving by passon in hardware security, I also dive myself into deep learning security. It allows me to lead developing a novel backdoor detector and implement fast gradient sign methods Attack on DNN.
+bio: I am passionate about SoC design, hardware security, embedded system and FPGA.I am familiiar with extensive cryto algorithm including DES, AES, SHA and attack strategies such as Scan Attack, Fault Attack and SAT Attack.Driving by passon in hardware security, I also dive myself into deep learning security. It allows me to lead developing a novel backdoor detector and implement fast gradient sign methods Attack on DNN.
 
 
 # Interests to show in About widget
