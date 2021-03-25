@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: fa-android
+  icon: chrome
   icon_pack: fab
   name: R
 - description: 100%
