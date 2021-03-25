@@ -15,6 +15,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am passionate about SoC design, hardware security, embedded system and FPGA.I am familiiar with extensive cryto algorithm including DES, AES, SHA and attack strategies such as Scan Attack, Fault Attack and SAT Attack.Driving by passon in hardware security, I also dive myself into deep learning security. It allows me to lead developing a novel backdoor detector and implement fast gradient sign methods Attack on DNN.
+Yiyang is an intelligent and competent candidate who will be a good match for Hardware Engineer position. His research interests include FPGA, hardware security, SOC design verification and computer architecture. He has done great projects with Verilog, C++, Java and python recently. He has led the NYU_AES team to win the second place of the Intel Hack@DAC2020 and Hack@Sec2020 hardware security competetion. He holds a profound understanding of how the hardware works and always goes beyond the scope of the project in order to the design more robust.
 
 
 # Interests to show in About widget
@@ -74,7 +75,16 @@ email: ""
 highlight_name: false
 ---
 
-Yiyang is an intelligent and competent candidate who will be a good match for Hardware Engineer position. His research interests include FPGA, hardware security, SOC design verification and computer architecture. He has done great projects with Verilog, C++, Java and python recently. He has led the NYU_AES team to win the second place of the Intel Hack@DAC2020 and Hack@Sec2020 hardware security competetion. He holds a profound understanding of how the hardware works and always goes beyond the scope of the project in order to the design more robust.
+
+Welcome to my web page! My name is Yiyang Xu, a Electrical engineer major student who wants to strengthen hardware security through finding bugs in soc by manual inspection and developing automation tools.
+
+I am passionate about SoC design, hardware security, embedded system and FPGA.I am familiiar with extensive cryto algorithm including DES, AES, SHA and attack strategies such as Scan Attack, Fault Attack and SAT Attack.Driving by passon in hardware security, I also dive myself into studying the portential security vulnerabilities of deep learning networks. It allows me to lead developing a novel backdoor detector and implement fast gradient sign methods Attack on DNN.
+
+During my undergraduate study, I have engaged in embedded system design for four years. I am familiar with digital signal processing and design a digital adpative filter on ZYNQ7010 FPGA. I am also able to program microcontrollor and use it implement design like a digital Oscilloscope.
+
+I am actively seeking FPGA & Hardware Security & Design Verification & Software & Embedded Software Engineer positions | MS EE Student at New York University graduating in May 2021
+
+
 
 #
 
