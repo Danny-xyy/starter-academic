@@ -16,10 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: chrome
-  icon_pack: fab
-  name: R
+- description: FPGA, Microcontroller, DSP
+  icon: microchip
+  icon_pack: fas
+  name: Hardware Deisgn
 - description: 100%
   icon: chart-line
   icon_pack: fas
