@@ -16,30 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: FPGA, Microcontroller, DSP
+- description: Digital Signal Processing, Microcontroller, Linux, Image processing
   icon: microchip
   icon_pack: fas
-  name: Hardware Deisgn
-- description: 100%
-  icon: chart-line
+  name: Electrical Engineering
+- description: DES, AES, Scan Attack, Fault Attack, SAT Attack
+  icon: bug
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Hardware Security
+- description: Cyclone IV, Zynq 7010, Basys3, Nexys4
+  icon: sim-card
   icon_pack: fas
-  name: Photography
-- description: 10%
+  name: FPGA Design
+- description: C/C++, Java, Verilog, VHDL, Python
   icon: keyboard
   icon_pack: fas
-  name: Photography
-- description: 10%
-  icon: camera-retro
+  name: Programming
+- description: Vivado, Modelsim, Matlab
+  icon: tools
   icon_pack: fas
-  name: Photography
-- description: 10%
-  icon: camera-retro
+  name: Tools
+- description: Fast Gradient Sign Methods, Backdoor detector 
+  icon: hdd
   icon_pack: fas
-  name: Photography
+  name: Machine Learning
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
