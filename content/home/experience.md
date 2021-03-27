@@ -48,7 +48,7 @@ experience:
     location: Shenyang, China
     date_start: '2015-09-01'
     date_end: '2019-07-01'
-    description: 
+    description: |2-
         GPA: 3.44/4.0
         Courseworks:
         * Microcontrollor Theory
